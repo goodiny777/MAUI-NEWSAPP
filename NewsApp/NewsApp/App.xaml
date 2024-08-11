@@ -1,0 +1,14 @@
+﻿<Application xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:NewsApp"
+             x:Class="NewsApp.App">
+    <Application.Resources>
+        <ResourceDictionary>
+
+            <Style TargetType="Label">
+                <Setter Property="TextColor" Value="Black"/>
+            </Style>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
